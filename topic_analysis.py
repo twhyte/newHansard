@@ -3,7 +3,7 @@
 
 # In[9]:
 
-get_ipython().magic('matplotlib inline')
+#get_ipython().magic('matplotlib inline') ipython notebooks inline plots
 import psycopg2
 import datetime
 import re
